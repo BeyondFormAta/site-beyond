@@ -6,7 +6,8 @@ module.exports = {
   theme: {
     colors:{
       cinza: '#9b9b9b',
-      white:'#fff'
+      white:'#fff',
+      preto:'#141414'
     },
     extend: {},
   },
